@@ -1,0 +1,11 @@
+{
+  "name": "stack-overflow-question",
+  "version": "1.0.0",
+  "description": "",
+  "scripts": {},
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "aws-lambda-ric": "^2.0.0"
+  }
+}
